@@ -1,5 +1,6 @@
 ---
 docuum_version: "0.21.1"
+docuum_stdlib: "gnu"
 docuum_systemd_template: "systemd/docuum.service.j2"
 
 docuum_threshold: "10G"
